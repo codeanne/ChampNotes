@@ -1,0 +1,27 @@
+h3{
+  text-align:center;
+}
+
+body {
+  background-color: #34495e;
+  font-family: "Lato", sans-serif;
+}
+
+button {
+  margin: 0 auto;
+  float: right;
+}
+
+.centered {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.card {
+  margin: 50px auto;
+  width: 18rem;
+}
+i {
+  float: right;
+  padding-top: 5px;
+}
